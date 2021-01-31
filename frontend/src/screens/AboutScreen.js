@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom";
-
 const AboutScreen = () => {
   return (
     <>
@@ -80,7 +78,7 @@ const AboutScreen = () => {
                   alt="..."
                 />
                 <div className="card-body">
-                  <h5 className="card-title">Bob Doe</h5>
+                  <h5 className="card-title">Molly Doe</h5>
                   <p className="text-muted">UX / UI Developer</p>
                   <p className="card-text">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla bibendum nunc non felis sollicitudin, ut convallis ante varius.

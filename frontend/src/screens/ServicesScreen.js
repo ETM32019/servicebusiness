@@ -6,7 +6,7 @@ const ServicesScreen = () => {
       {/* Big Banner Section */}
       <section className="bg-dark text-white">
         <div className="container text-center py-5 ">
-          <h1 className="text-uppercase">Services</h1>
+        <h1 className="text-uppercase">Our <span className="text-warning">Services</span></h1>
         </div>
       </section>
       {/* Services Section */}

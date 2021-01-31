@@ -5,7 +5,7 @@ const PricingScreen = () => {
       {/* Big Banner Section */}
       <section className="bg-dark text-white">
         <div className="container text-center py-5 ">
-          <h1 className="text-uppercase">Pricing</h1>
+          <h1 className="text-uppercase">Our <span className="text-warning">Pricing</span></h1>
         </div>
       </section>
       {/* Pricing Section */}
