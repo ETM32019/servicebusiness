@@ -2,13 +2,13 @@ import { Link } from "react-router-dom";
 const PricingScreen = () => {
   return (
     <>
-      {/* Big Banner */}
+      {/* Big Banner Section */}
       <section className="bg-dark text-white">
         <div className="container text-center py-5 ">
           <h1 className="text-uppercase">Pricing</h1>
         </div>
       </section>
-      {/* Services Section */}
+      {/* Pricing Section */}
       <section className="bg-light">
         <div className="container py-5">
           <div className="row text-center">

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const ServicesScreen = () => {
   return (
     <>
-      {/* Big Banner */}
+      {/* Big Banner Section */}
       <section className="bg-dark text-white">
         <div className="container text-center py-5 ">
           <h1 className="text-uppercase">Services</h1>
