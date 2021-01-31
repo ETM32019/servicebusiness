@@ -41,7 +41,7 @@ const HomeScreen = () => {
                     up the bulk of the card's content.
                   </p>
                   <Link to="/" className="btn btn-warning">
-                    Go somewhere
+                    Read More
                   </Link>
                 </div>
               </div>
@@ -60,7 +60,7 @@ const HomeScreen = () => {
                     up the bulk of the card's content.
                   </p>
                   <Link to="/" className="btn btn-warning">
-                    Go somewhere
+                    Read More
                   </Link>
                 </div>
               </div>
@@ -79,7 +79,7 @@ const HomeScreen = () => {
                     up the bulk of the card's content.
                   </p>
                   <Link to="/" className="btn btn-warning">
-                    Go somewhere
+                    Read More
                   </Link>
                 </div>
               </div>
@@ -143,7 +143,7 @@ const HomeScreen = () => {
                     up the bulk of the card's content.
                   </p>
                   <Link to="/" className="btn btn-warning btn-block">
-                    Go somewhere
+                    Read More
                   </Link>
                 </div>
               </div>
@@ -162,7 +162,7 @@ const HomeScreen = () => {
                     up the bulk of the card's content.
                   </p>
                   <Link to="/" className="btn btn-warning btn-block">
-                    Go somewhere
+                    Read More
                   </Link>
                 </div>
               </div>
@@ -181,7 +181,7 @@ const HomeScreen = () => {
                     up the bulk of the card's content.
                   </p>
                   <Link to="/" className="btn btn-warning btn-block">
-                    Go somewhere
+                    Read More
                   </Link>
                 </div>
               </div>
