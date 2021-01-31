@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
 const Header = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-warning">
       <a className="navbar-brand" href="/">
-        Navbar
+        Service Business
       </a>
       <button
         className="navbar-toggler"
